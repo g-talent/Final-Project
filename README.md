@@ -36,7 +36,6 @@ Goal:
     - If there are two licenses registered to the same company/customer with same street address, then find some other way to 
     differentiate the two.
   - Create a dictionary of the businesses using the ID's as the key
-  - Create files for each renewal year and list the businesses that are up for renewal
 
 Potential problems:
   - How to detect names?
